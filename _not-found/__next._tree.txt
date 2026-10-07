@@ -1,2 +1,2 @@
-:HL["/CultureHaus/_next/static/chunks/19b3hbyowar7-.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"TBdgm4gJk47cJZatCQUZJ"}
+:HL["/_next/static/chunks/0ru091t5q4e1e.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"WbFPyswQ-rEKB1SHcpOPQ"}
